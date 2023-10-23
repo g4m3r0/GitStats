@@ -154,7 +154,7 @@
 
           <div>
             <span class="progress">
-              <span style="background-color: #DA5B0B;width: 79.40640%;" class="progress-item"></span><span style="background-color: #e34c26;width: 6.17821%;" class="progress-item"></span><span style="background-color: #178600;width: 3.55245%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 1.74476%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.59542%;" class="progress-item"></span><span style="background-color: #EB8CEB;width: 1.47083%;" class="progress-item"></span><span style="background-color: #563d7c;width: 1.44798%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.42798%;" class="progress-item"></span><span style="background-color: #945db7;width: 1.36343%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.80477%;" class="progress-item"></span><span style="background-color: #264b99;width: 0.35748%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 0.24442%;" class="progress-item"></span><span style="background-color: #e38c00;width: 0.10729%;" class="progress-item"></span><span style="background-color: #f7523f;width: 0.08383%;" class="progress-item"></span><span style="background-color: #3D6117;width: 0.08257%;" class="progress-item"></span><span style="background-color: #fedf5b;width: 0.06000%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.03747%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.00923%;" class="progress-item"></span><span style="background-color: #3178c6;width: 0.00914%;" class="progress-item"></span><span style="background-color: #427819;width: 0.00471%;" class="progress-item"></span><span style="background-color: #dad8d8;width: 0.00383%;" class="progress-item"></span><span style="background-color: #701516;width: 0.00355%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.00289%;" class="progress-item"></span><span style="background-color: #41b883;width: 0.00137%;" class="progress-item"></span>
+              <span style="background-color: #DA5B0B;width: 79.41064%;" class="progress-item"></span><span style="background-color: #e34c26;width: 6.17854%;" class="progress-item"></span><span style="background-color: #178600;width: 3.55264%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 1.74485%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.59550%;" class="progress-item"></span><span style="background-color: #EB8CEB;width: 1.47091%;" class="progress-item"></span><span style="background-color: #563d7c;width: 1.44806%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.42806%;" class="progress-item"></span><span style="background-color: #945db7;width: 1.36350%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.80481%;" class="progress-item"></span><span style="background-color: #264b99;width: 0.35750%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 0.24443%;" class="progress-item"></span><span style="background-color: #e38c00;width: 0.10730%;" class="progress-item"></span><span style="background-color: #f7523f;width: 0.08384%;" class="progress-item"></span><span style="background-color: #3D6117;width: 0.08257%;" class="progress-item"></span><span style="background-color: #fedf5b;width: 0.06000%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.03397%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.00923%;" class="progress-item"></span><span style="background-color: #3178c6;width: 0.00914%;" class="progress-item"></span><span style="background-color: #427819;width: 0.00471%;" class="progress-item"></span><span style="background-color: #dad8d8;width: 0.00383%;" class="progress-item"></span><span style="background-color: #701516;width: 0.00355%;" class="progress-item"></span><span style="background-color: #41b883;width: 0.00137%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.00106%;" class="progress-item"></span>
             </span>
           </div>
 
@@ -480,7 +480,7 @@
                         Shell
                     </span>
                     <span class="percent">
-                        0.04%
+                        0.03%
                     </span>
             </li>
             <li style="animation-delay: 2550ms;">
@@ -581,25 +581,6 @@
             <li style="animation-delay: 3300ms;">
                     <svg xmlns="http://www.w3.org/2000/svg" 
                          class="octicon" 
-                         style="fill:#384d54;"
-                         viewBox="0 0 16 16" 
-                         version="1.1" 
-                         width="16" 
-                         height="16">
-                            <path fill-rule="evenodd" 
-                                  d="M8 4a4 4 0 100 8 4 4 0 000-8z">
-                            </path>
-                    </svg>
-                    <span class="lang">
-                        Dockerfile
-                    </span>
-                    <span class="percent">
-                        0.00%
-                    </span>
-            </li>
-            <li style="animation-delay: 3450ms;">
-                    <svg xmlns="http://www.w3.org/2000/svg" 
-                         class="octicon" 
                          style="fill:#41b883;"
                          viewBox="0 0 16 16" 
                          version="1.1" 
@@ -611,6 +592,25 @@
                     </svg>
                     <span class="lang">
                         Vue
+                    </span>
+                    <span class="percent">
+                        0.00%
+                    </span>
+            </li>
+            <li style="animation-delay: 3450ms;">
+                    <svg xmlns="http://www.w3.org/2000/svg" 
+                         class="octicon" 
+                         style="fill:#384d54;"
+                         viewBox="0 0 16 16" 
+                         version="1.1" 
+                         width="16" 
+                         height="16">
+                            <path fill-rule="evenodd" 
+                                  d="M8 4a4 4 0 100 8 4 4 0 000-8z">
+                            </path>
+                    </svg>
+                    <span class="lang">
+                        Dockerfile
                     </span>
                     <span class="percent">
                         0.00%
